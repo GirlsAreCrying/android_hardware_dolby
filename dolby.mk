@@ -52,9 +52,9 @@ PRODUCT_VENDOR_PROPERTIES += \
     vendor.audio.dolby.ds2.enabled=false \
     vendor.audio.dolby.ds2.hardbypass=false
 
-# DolbyManager
+# LunarisDolby
 PRODUCT_PACKAGES += \
-    DolbyManager
+    LunarisDolby
 
 # Init
 PRODUCT_PACKAGES += \
